@@ -2,7 +2,7 @@
 
 > A brand identity and responsive single-page website built for the **Institute of Digital Risk (IDR)** — an industry-led training and deployment institute focused on digital, cyber, and AI risk.
 
-**Live Demo →** [yourusername.github.io/institute-of-digital-risk](https://yourusername.github.io/institute-of-digital-risk)
+**Live Demo →** https://github.com/sanchita346/institute-of-digital-risk.git
 
 ---
 
